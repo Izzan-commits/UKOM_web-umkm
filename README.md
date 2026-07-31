@@ -1,7 +1,7 @@
 # UKOM_web-umkm
 Berisi Penjelasan, Dokumentasi, tentang apa web yang di buat. Saya membuat web UMKM dengan layout mengikuti MUSICVILLA.COM
 
-===================================================================================
+============================================================================
 
 ## 1. Ringkasan Proyek
 Loopora adalah antarmuka toko daring (e-commerce) yang berfokus pada produk buatan tangan (handmade crochet/crafts). Desain antarmuka mengusung estetika cozy, hangat, dan ceria (cheerful) dengan skema warna pastel serta palet utama charcoal untuk menjaga keterbacaan teks.
