@@ -41,3 +41,17 @@ CSS Grid: Digunakan pada .product-grid, .review-grid, .video-grid, .trending-gri
 Flexbox: Digunakan pada area navigasi (.main-nav), susunan kartu (.header-actions), serta perataan isi dalam kartu produk/ulasan.
 <br>
 Responsive Typography: Header menggunakan fungsi clamp(45px, 7vw, 90px) agar ukuran font h1 menyesuaikan secara otomatis dengan lebar layar tanpa membuat teks terpotong (overflow).
+
+## 4. Fitur Responsif (Media Queries)
+Sistem tata letak diatur untuk menyesuaikan otomatis di berbagai ukuran perangkat:
+
+### Desktop/Tablet Besar (> 1000px):
+- Grid produk: 4 Kolom
+- Footer: 4 Kolom
+- Tablet (max-width: 1000px):
+- Grid produk & footer berubah menjadi 2 Kolom.
+
+### Smartphone (max-width: 700px & max-width: 480px):
+- Menu navigasi utama dan tombol aksi tersembunyi, mengaktifkan tombol menu hamburger (.menu-button).
+- Grid produk, ulasan, dan cerita berubah menjadi 1 Kolom vertikal agar nyaman dibaca di layar HP.
+- Ukuran banner dan tinggi gambar disesuaikan secara proporsional.
